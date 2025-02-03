@@ -1,6 +1,7 @@
 import math
 
 
+
 def es_primo(num):
     if num < 2:
         return False
